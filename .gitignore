@@ -1,2 +1,3 @@
-mylogs.log 
-//yah file jaha bhi ho use ignore kare.
+/mylogs.log 
+*.log
+*.cpp
